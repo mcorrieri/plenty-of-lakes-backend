@@ -29,7 +29,7 @@
       "location": "South Tyrol",
       "link": "https://en.wikipedia.org/wiki/Pragser_Wildsee",
       "description": "it wuz cool",
-      "vists": 0,
+      "wantToVisit": false,
       "lakePersonId": 1
     },
     {
@@ -39,17 +39,17 @@
       "location": "South Tyrol",
       "link": "https://en.wikipedia.org/wiki/Toblacher_See",
       "description": "I had a good time. I fell down but I still had fun lol",
-      "vists": 0,
+      "wantToVisit": false,
       "lakePersonId": 2
     },
     {
       "id": 3,
       "name": "Lake Landro",
-      "image": "https://images.simedia.cloud/cms-v2/CustomerData/536/Files/Images/things-to-do/lakes/lake-landro.jpg/1200x0/image.jpg?v=637514120698",
+      "image": "https://images.simedia.cloud/cms-v2/CustomerData/536/Files/Images/things-to-do/lakes/lake-landro.jpg/12false0x0/image.jpg?v=637514120698",
       "location": "South Tyrol",
       "link": "https://en.wikipedia.org/wiki/D%C3%BCrrensee",
       "description": "Good picnic spot",
-      "vists": 0,
+      "wantToVisit": false,
       "lakePersonId": 3
     },
     {
@@ -60,24 +60,6 @@
       "description": "Super huge lake! ",
       "visits": "2",
       "id": 4
-    },
-    {
-      "name": "Lake Homeboy",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotAzWmcGZ545cuqKy6ao_XLliET3bsJp2Ng&usqp=CAU",
-      "location": "adf",
-      "link": "adf",
-      "description": "adf",
-      "visits": "666",
-      "id": 5
-    },
-    {
-      "name": "Lake Homeboy",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotAzWmcGZ545cuqKy6ao_XLliET3bsJp2Ng&usqp=CAU",
-      "location": "adf",
-      "link": "adf",
-      "description": "adf",
-      "visits": "666",
-      "id": 6
     }
   ]
 }
