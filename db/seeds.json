@@ -51,6 +51,48 @@
       "description": "Good picnic spot",
       "wantToVisit": false,
       "lakePersonId": 3
+    },
+
+    {
+      "id": 4,
+      "name": "Lake Annecy",
+      "image": "https://en.wikipedia.org/wiki/File:Lac_d%E2%80%99Annecy.jpg",
+      "location": "Haute-Savoie, France",
+      "link": "https://en.wikipedia.org/wiki/Lake_Annecy",
+      "description": "Talk about a Beaut. Had a great time here with Jenna. She never called me back",
+      "wantToVisit": false,
+      "lakePersonId": 2
+    },
+
+    {
+      "id": 5,
+      "name": "Lake Como",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Good_como_lake_photo.jpg/440px-Good_como_lake_photo.jpg",
+      "location": "Lombardy, Italy",
+      "link": "https://en.wikipedia.org/wiki/Lake_Como",
+      "description": "Perfect place for a date who loves spaghetti",
+      "wantToVisit": false,
+      "lakePersonId": 2
+    },
+    {
+      "id": 6,
+      "name": "Wastwater",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wast_water.jpeg/528px-Wast_water.jpeg",
+      "location": "Wasdale, Enland",
+      "link": "https://en.wikipedia.org/wiki/Wast_Water",
+      "description": "A picnic here? Yes please!",
+      "wantToVisit": false,
+      "lakePersonId": 2
+    },
+    {
+      "id": 7,
+      "name": "Loch Ness",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wast_water.jpeg/528px-Wast_water.jpeg",
+      "location": "Wasdale, Enland",
+      "link": "https://en.wikipedia.org/wiki/Wast_Water",
+      "description": "A picnic here? Yes please!",
+      "wantToVisit": false,
+      "lakePersonId": 2
     }
   ]
 }
