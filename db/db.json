@@ -6,7 +6,7 @@
     },
     {
       "id": 2,
-      "name": "Miguel"
+      "name": "Lonely Larry"
     },
     {
       "id": 3,
@@ -14,11 +14,15 @@
     },
     {
       "id": 4,
-      "name": "Sofia"
+      "name": "Stinky Steve"
     },
     {
       "id": 5,
       "name": "Abraham Lincolns Jr."
+    },
+    {
+      "id": 6,
+      "name": "Dumb Chris"
     }
   ],
   "lakes": [
@@ -45,7 +49,7 @@
     {
       "id": 3,
       "name": "Lake Landro",
-      "image": "https://images.simedia.cloud/cms-v2/CustomerData/536/Files/Images/things-to-do/lakes/lake-landro.jpg/12false0x0/image.jpg?v=637514120698",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/be/b6/ce/bello-paisaje.jpg",
       "location": "South Tyrol",
       "link": "https://en.wikipedia.org/wiki/D%C3%BCrrensee",
       "description": "Good picnic spot",
@@ -56,12 +60,12 @@
     {
       "id": 4,
       "name": "Lake Annecy",
-      "image": "https://en.wikipedia.org/wiki/File:Lac_d%E2%80%99Annecy.jpg",
+      "image": "https://blog-cdn.routeperfect.com/wp-content/uploads/2018/12/05143611/shutterstock_228809320-1.jpg",
       "location": "Haute-Savoie, France",
       "link": "https://en.wikipedia.org/wiki/Lake_Annecy",
       "description": "Talk about a Beaut. Had a great time here with Jenna. She never called me back",
       "wantToVisit": false,
-      "lakePersonId": 2
+      "lakePersonId": 4
     },
 
     {
@@ -72,7 +76,7 @@
       "link": "https://en.wikipedia.org/wiki/Lake_Como",
       "description": "Perfect place for a date who loves spaghetti",
       "wantToVisit": false,
-      "lakePersonId": 2
+      "lakePersonId": 5
     },
     {
       "id": 6,
@@ -82,17 +86,97 @@
       "link": "https://en.wikipedia.org/wiki/Wast_Water",
       "description": "A picnic here? Yes please!",
       "wantToVisit": false,
-      "lakePersonId": 2
+      "lakePersonId": 6
     },
     {
       "id": 7,
       "name": "Loch Ness",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wast_water.jpeg/528px-Wast_water.jpeg",
-      "location": "Wasdale, Enland",
-      "link": "https://en.wikipedia.org/wiki/Wast_Water",
-      "description": "A picnic here? Yes please!",
+      "image": "https://blog-cdn.routeperfect.com/wp-content/uploads/2018/12/05143433/shutterstock_105420371-1.jpg",
+      "location": "Scottish Highlands",
+      "link": "https://en.wikipedia.org/wiki/Loch_Ness",
+      "description": "No monsters here, only me ;)",
+      "wantToVisit": false,
+      "lakePersonId": 1
+    },
+    {
+      "id": 8,
+      "name": "Plitvice Lakes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Plitvice01.jpg/440px-Plitvice01.jpg",
+      "location": "Lika-Senj County, Croatia",
+      "link": "https://en.wikipedia.org/wiki/Plitvice_Lakes_National_Park",
+      "description": "Has a path which is perfect for a romantic stroll",
       "wantToVisit": false,
       "lakePersonId": 2
+    },
+    {
+      "id": 9,
+      "name": "Lake Hallstatt",
+      "image": "https://blog-cdn.routeperfect.com/wp-content/uploads/2018/12/05143504/shutterstock_138025421.jpg",
+      "location": "Salzkammergut, Austria",
+      "link": "https://en.wikipedia.org/wiki/Hallst%C3%A4tter_See",
+      "description": "Scuba diving singles look no further!",
+      "wantToVisit": false,
+      "lakePersonId": 3
+    },
+    {
+      "id": 10,
+      "name": "Lake Lucerne",
+      "image": "https://blog-cdn.routeperfect.com/wp-content/uploads/2018/12/05143427/shutterstock_99967277-1.jpg",
+      "location": "Central Switzerland",
+      "link": "https://en.wikipedia.org/wiki/Lake_Lucerne",
+      "description": "Wowzers it's massive!",
+      "wantToVisit": false,
+      "lakePersonId": 6
+    },
+    {
+      "id": 11,
+      "name": "Lake Bled",
+      "image": "https://blog-cdn.routeperfect.com/wp-content/uploads/2018/12/05143441/shutterstock_111728312.jpg",
+      "location": "Julian Alps, Slovenia",
+      "link": "https://en.wikipedia.org/wiki/Lake_Bled",
+      "description": "Just as creepy as the name. 2/10 do NOT recommend ",
+      "wantToVisit": false,
+      "lakePersonId": 6
+    },
+    {
+      "id": 12,
+      "name": "Lake Garda",
+      "image": "https://blog-cdn.routeperfect.com/wp-content/uploads/2018/12/05143532/shutterstock_161694245.jpg",
+      "location": "Lombardy, Italy",
+      "link": "https://en.wikipedia.org/wiki/Lake_Garda",
+      "description": "It's really large! Which makes sense because it's the largest lake in Italy!",
+      "wantToVisit": false,
+      "lakePersonId": 6
+    },
+    {
+      "id": 13,
+      "name": "Lake Ohrid",
+      "image": "https://cdn-bodde.nitrocdn.com/PgnkCIsGyOJiNkMdDOHEAiCvMEeINUsu/assets/static/source/rev-93acb20/wp-content/uploads/2013/03/Lake-ohrid.jpg",
+      "location": "Macedonia",
+      "link": "https://en.wikipedia.org/wiki/Lake_Ohrid",
+      "description": "Overlooked by a church, maybe we could get married there...",
+      "wantToVisit": false,
+      "lakePersonId": 1
+    },
+    {
+      "id": 14,
+      "name": "Konigsee Lake",
+      "image": "https://cdn-bodde.nitrocdn.com/PgnkCIsGyOJiNkMdDOHEAiCvMEeINUsu/assets/static/source/rev-93acb20/wp-content/uploads/2013/03/Konigsee-Lake-1.jpg",
+      "location": "Germany",
+      "link": "https://en.wikipedia.org/wiki/K%C3%B6nigssee",
+      "description": "Wunderbar! Sehr gut!",
+      "wantToVisit": false,
+      "lakePersonId": 3
+    },
+    {
+      "id": 15,
+      "name": "Sognefjord",
+      "image": "https://cdn-bodde.nitrocdn.com/PgnkCIsGyOJiNkMdDOHEAiCvMEeINUsu/assets/static/source/rev-93acb20/wp-content/uploads/2013/03/Sognefjord.jpg",
+      "location": "Norway",
+      "link": "https://en.wikipedia.org/wiki/Sognefjord",
+      "description": "Its nickname is the King of Fjords",
+      "wantToVisit": false,
+      "lakePersonId": 3
     }
   ]
 }
