@@ -2,27 +2,53 @@
   "lakePerson": [
     {
       "id": 1,
-      "name": "Isabella"
+      "name": "Isabella",
+      "favLakes": [
+        {
+          "id": 1,
+          "name": "Lake Braies",
+          "image": "https://images.simedia.cloud/cms-v2/CustomerData/536/Files/Images/three-peaks-holiday-region/braies-prags/lake-braies-pragser-wildsee/view-lake-braies.jpg/1200x0/image.jpg?v=637514120698",
+          "location": "South Tyrol",
+          "link": "https://en.wikipedia.org/wiki/Pragser_Wildsee",
+          "description": "it wuz cool",
+          "wantToVisit": false,
+          "lakePersonId": 1
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "Lonely Larry"
+      "name": "Lonely Larry",
+      "favLakes": []
     },
     {
       "id": 3,
-      "name": "Michael"
+      "name": "Michael",
+      "favLakes": []
     },
     {
       "id": 4,
-      "name": "Stinky Steve"
+      "name": "Stinky Steve",
+      "favLakes": []
     },
     {
       "id": 5,
-      "name": "Abraham Lincolns Jr."
+      "name": "Abraham Lincolns Jr.",
+      "favLakes": []
     },
     {
       "id": 6,
-      "name": "Dumb Chris"
+      "name": "Dumb Chris",
+      "favLakes": []
+    },
+    {
+      "name": "Aidan",
+      "id": 7
+    },
+    {
+      "name": "victoria",
+      "favLakes": [],
+      "id": 8
     }
   ],
   "lakes": [
@@ -56,7 +82,6 @@
       "wantToVisit": false,
       "lakePersonId": 3
     },
-
     {
       "id": 4,
       "name": "Lake Annecy",
@@ -67,7 +92,6 @@
       "wantToVisit": false,
       "lakePersonId": 4
     },
-
     {
       "id": 5,
       "name": "Lake Como",

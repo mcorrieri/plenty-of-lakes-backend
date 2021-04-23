@@ -2,27 +2,33 @@
   "lakePerson": [
     {
       "id": 1,
-      "name": "Isabella"
+      "name": "Isabella",
+      "favLakes": []
     },
     {
       "id": 2,
-      "name": "Lonely Larry"
+      "name": "Lonely Larry",
+      "favLakes": []
     },
     {
       "id": 3,
-      "name": "Michael"
+      "name": "Michael",
+      "favLakes": []
     },
     {
       "id": 4,
-      "name": "Stinky Steve"
+      "name": "Stinky Steve",
+      "favLakes": []
     },
     {
       "id": 5,
-      "name": "Abraham Lincolns Jr."
+      "name": "Abraham Lincolns Jr.",
+      "favLakes": []
     },
     {
       "id": 6,
-      "name": "Dumb Chris"
+      "name": "Dumb Chris",
+      "favLakes": []
     }
   ],
   "lakes": [
